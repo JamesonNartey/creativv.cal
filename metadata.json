@@ -1,0 +1,6 @@
+{
+  "name": "creativv.cal",
+  "description": "Student academic calendar and schedule planner to organize classes, essays, upcoming tests, and daily coursework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
